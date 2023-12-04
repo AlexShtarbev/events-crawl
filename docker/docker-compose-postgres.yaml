@@ -1,0 +1,18 @@
+version: '2.3'
+
+services:
+  # A PostgreSQL database to be used by vpshere-provider
+  postgres:
+    image: bitnami/postgresql:16.1.0-debian-11-r15
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready" ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./postgres-extensions/extensions.sql:/docker-entrypoint-initdb.d/extensions.sql
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres

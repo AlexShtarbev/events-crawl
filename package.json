@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "crawlee": "^3.6.2",
+    "liquibase": "^4.4.0",
     "playwright": "^1.40.1"
   },
   "type": "module"
