@@ -1,0 +1,869 @@
+{
+  "usableSessionsCount": 33,
+  "retiredSessionsCount": 1,
+  "sessions": [
+    {
+      "id": "session_qBc29EPmwA",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:47:40.673Z",
+      "createdAt": "2023-12-04T13:57:40.673Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_F4rZaj71wc",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "PHPSESSID",
+            "value": "cf8ba2947ecbff5e31ba3fe45fb156ca",
+            "expires": "2023-12-04T14:47:45.869Z",
+            "domain": "theatre.art.bg",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-04T13:57:45.871Z",
+            "lastAccessed": "2023-12-04T13:57:47.898Z"
+          },
+          {
+            "key": "__utma",
+            "value": "200830443.1419298599.1701698262.1701698262.1701698262.1",
+            "expires": "2025-01-07T13:57:42.090Z",
+            "domain": "theatre.art.bg",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-04T13:57:45.873Z",
+            "lastAccessed": "2023-12-04T13:57:47.902Z"
+          },
+          {
+            "key": "__utmc",
+            "value": "200830443",
+            "expires": "2023-12-04T14:47:45.869Z",
+            "domain": "theatre.art.bg",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-04T13:57:45.874Z",
+            "lastAccessed": "2023-12-04T13:57:47.902Z"
+          },
+          {
+            "key": "__utmz",
+            "value": "200830443.1701698262.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+            "expires": "2024-06-04T01:57:42.000Z",
+            "domain": "theatre.art.bg",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-04T13:57:45.876Z",
+            "lastAccessed": "2023-12-04T13:57:47.903Z"
+          },
+          {
+            "key": "__utmt",
+            "value": "1",
+            "expires": "2023-12-04T14:07:42.000Z",
+            "domain": "theatre.art.bg",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-04T13:57:45.876Z",
+            "lastAccessed": "2023-12-04T13:57:47.903Z"
+          },
+          {
+            "key": "__utmb",
+            "value": "200830443.2.10.1701698262",
+            "expires": "2023-12-04T14:27:47.000Z",
+            "domain": "theatre.art.bg",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-04T13:57:45.877Z",
+            "lastAccessed": "2023-12-04T13:57:47.905Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:47:40.677Z",
+      "createdAt": "2023-12-04T13:57:40.677Z",
+      "usageCount": 6,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_gefTfXejz0",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:47:46.181Z",
+      "createdAt": "2023-12-04T13:57:46.181Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_2HKgyfnx0j",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:47:46.776Z",
+      "createdAt": "2023-12-04T13:57:46.776Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_Z4n2R9HizG",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:47:48.741Z",
+      "createdAt": "2023-12-04T13:57:48.741Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_kraxoBqqWG",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "PHPSESSID",
+            "value": "056eecad2a82bffbceff993fe0d65b9b",
+            "expires": "2023-12-04T14:47:50.546Z",
+            "domain": "theatre.art.bg",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-04T13:57:50.507Z",
+            "lastAccessed": "2023-12-04T13:58:07.350Z"
+          },
+          {
+            "key": "__utma",
+            "value": "200830443.156813827.1701698270.1701698270.1701698270.1",
+            "expires": "2025-01-07T13:57:49.864Z",
+            "domain": "theatre.art.bg",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-04T13:57:50.509Z",
+            "lastAccessed": "2023-12-04T13:58:07.356Z"
+          },
+          {
+            "key": "__utmc",
+            "value": "200830443",
+            "expires": "2023-12-04T14:47:50.546Z",
+            "domain": "theatre.art.bg",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-04T13:57:50.509Z",
+            "lastAccessed": "2023-12-04T13:58:07.357Z"
+          },
+          {
+            "key": "__utmz",
+            "value": "200830443.1701698270.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+            "expires": "2024-06-04T01:57:49.000Z",
+            "domain": "theatre.art.bg",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-04T13:57:50.510Z",
+            "lastAccessed": "2023-12-04T13:58:07.357Z"
+          },
+          {
+            "key": "__utmt",
+            "value": "1",
+            "expires": "2023-12-04T14:07:49.000Z",
+            "domain": "theatre.art.bg",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-04T13:57:50.510Z",
+            "lastAccessed": "2023-12-04T13:58:07.358Z"
+          },
+          {
+            "key": "__utmb",
+            "value": "200830443.14.10.1701698270",
+            "expires": "2023-12-04T14:28:06.000Z",
+            "domain": "theatre.art.bg",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-04T13:57:50.511Z",
+            "lastAccessed": "2023-12-04T13:58:07.363Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:47:48.742Z",
+      "createdAt": "2023-12-04T13:57:48.742Z",
+      "usageCount": 59,
+      "maxUsageCount": 50,
+      "errorScore": 13
+    },
+    {
+      "id": "session_qfpLVWdxCx",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:47:48.745Z",
+      "createdAt": "2023-12-04T13:57:48.745Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_C5Gme8DsSg",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:47:50.640Z",
+      "createdAt": "2023-12-04T13:57:50.640Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_UeadCfJ3Yl",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:47:50.682Z",
+      "createdAt": "2023-12-04T13:57:50.682Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_gDtNm3Jdqa",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:47:51.970Z",
+      "createdAt": "2023-12-04T13:57:51.970Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_mMiB34xbqm",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:47:52.182Z",
+      "createdAt": "2023-12-04T13:57:52.182Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_ggoOjXdTYS",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:47:53.274Z",
+      "createdAt": "2023-12-04T13:57:53.274Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_Et7ygdtV22",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:47:53.851Z",
+      "createdAt": "2023-12-04T13:57:53.851Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_lfn9bERx2r",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:47:54.685Z",
+      "createdAt": "2023-12-04T13:57:54.685Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_pXgDWI9dW4",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:47:55.399Z",
+      "createdAt": "2023-12-04T13:57:55.399Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_c7kTneuMsr",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:47:56.298Z",
+      "createdAt": "2023-12-04T13:57:56.298Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_dRbkqgFMcn",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:47:57.003Z",
+      "createdAt": "2023-12-04T13:57:57.003Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_uIRPwTjD5z",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:47:57.683Z",
+      "createdAt": "2023-12-04T13:57:57.683Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_X8Do4dgAjX",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:47:58.464Z",
+      "createdAt": "2023-12-04T13:57:58.464Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_d0iNtUvgrL",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:47:58.752Z",
+      "createdAt": "2023-12-04T13:57:58.752Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_8YNjC2isFJ",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:47:59.493Z",
+      "createdAt": "2023-12-04T13:57:59.493Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_Jw0lbA6auC",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:48:00.259Z",
+      "createdAt": "2023-12-04T13:58:00.259Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_LdzKZRNFXu",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:48:00.530Z",
+      "createdAt": "2023-12-04T13:58:00.530Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_lwhoj71NK4",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:48:01.217Z",
+      "createdAt": "2023-12-04T13:58:01.217Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_n5P75VnTuD",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:48:01.897Z",
+      "createdAt": "2023-12-04T13:58:01.897Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_8VxRDUyWwj",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:48:02.166Z",
+      "createdAt": "2023-12-04T13:58:02.166Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_hgFFNHXymv",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:48:03.194Z",
+      "createdAt": "2023-12-04T13:58:03.194Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_GONyT0UoeT",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:48:03.326Z",
+      "createdAt": "2023-12-04T13:58:03.326Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_cdytMc3BjA",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:48:04.256Z",
+      "createdAt": "2023-12-04T13:58:04.256Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_d8YGfmYo7P",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:48:04.969Z",
+      "createdAt": "2023-12-04T13:58:04.969Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_iHs4dTpFsA",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:48:05.160Z",
+      "createdAt": "2023-12-04T13:58:05.160Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_ylp6p1QlN0",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:48:06.028Z",
+      "createdAt": "2023-12-04T13:58:06.028Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_KfPsAG8Rhf",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:48:06.549Z",
+      "createdAt": "2023-12-04T13:58:06.549Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_uxggMRcdEa",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "PHPSESSID",
+            "value": "7dd7fed186057b81790655f7308733fd",
+            "expires": "2023-12-04T14:48:08.526Z",
+            "domain": "theatre.art.bg",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-04T13:58:08.527Z",
+            "lastAccessed": "2023-12-04T13:58:08.527Z"
+          },
+          {
+            "key": "__utma",
+            "value": "200830443.1534953435.1701698288.1701698288.1701698288.1",
+            "expires": "2025-01-07T13:58:07.998Z",
+            "domain": "theatre.art.bg",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-04T13:58:08.527Z",
+            "lastAccessed": "2023-12-04T13:58:08.527Z"
+          },
+          {
+            "key": "__utmc",
+            "value": "200830443",
+            "expires": "2023-12-04T14:48:08.526Z",
+            "domain": "theatre.art.bg",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-04T13:58:08.528Z",
+            "lastAccessed": "2023-12-04T13:58:08.528Z"
+          },
+          {
+            "key": "__utmz",
+            "value": "200830443.1701698288.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+            "expires": "2024-06-04T01:58:07.000Z",
+            "domain": "theatre.art.bg",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-04T13:58:08.529Z",
+            "lastAccessed": "2023-12-04T13:58:08.529Z"
+          },
+          {
+            "key": "__utmt",
+            "value": "1",
+            "expires": "2023-12-04T14:08:07.000Z",
+            "domain": "theatre.art.bg",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-04T13:58:08.529Z",
+            "lastAccessed": "2023-12-04T13:58:08.529Z"
+          },
+          {
+            "key": "__utmb",
+            "value": "200830443.1.10.1701698288",
+            "expires": "2023-12-04T14:28:07.000Z",
+            "domain": "theatre.art.bg",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-04T13:58:08.530Z",
+            "lastAccessed": "2023-12-04T13:58:08.530Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-04T14:48:06.551Z",
+      "createdAt": "2023-12-04T13:58:06.551Z",
+      "usageCount": 2,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    }
+  ]
+}
